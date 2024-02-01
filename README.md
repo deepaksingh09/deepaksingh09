@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @deepaksingh09
 - 👀 I’m interested in ...python , openCV
-- 🌱 I’m currently learning ...javaScript
+- tech - python ,html ,Css,JavaScript,
+- 🌱 I’m currently learning ...ReactJS
 - 💞️ I’m looking to collaborate on ...image proccessing
 - 📫 How to reach me ...singhdeepak09nov@gmail.com
 
